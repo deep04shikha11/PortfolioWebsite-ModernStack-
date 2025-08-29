@@ -15,6 +15,7 @@ export default function About() {
                         <li> <strong>2022</strong> Joined <strong>Grawlix Software Private Limited </strong> as Software Developer</li>
                         <li> <strong>2021</strong> Joined <strong>7EYE It Solutions Pvt.Ltd </strong> as Web Developer</li>
                         <li> <strong>2019</strong> Joined <strong>REAK INFOTECH LLP </strong> as Junior Developer</li>
+                        <li> <strong>2013</strong> Completed <strong>MCA </strong>from GRKIST, Barela</li>
                     </ul>
                 </div>
             </div>

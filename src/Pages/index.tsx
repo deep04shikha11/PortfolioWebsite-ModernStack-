@@ -3,6 +3,7 @@ import About from "@/sections/About";
 import Hero from "@/sections/Hero";
 import Projects from "@/sections/Projects";
 import Skills from "@/sections/Skills";
+import Contact from "@/sections/Contact";
 
 export default function Home() {
   return (
@@ -10,7 +11,8 @@ export default function Home() {
       <Hero />
       <About />
       <Projects />
-      <Skills/>
+      <Skills />
+      <Contact/>
     </>
   );
 }
